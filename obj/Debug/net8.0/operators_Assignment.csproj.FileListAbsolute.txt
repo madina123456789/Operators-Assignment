@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\operators_Assignment\bin\Debug\net8.0\operators_Assignment.exe
+C:\Users\DELL\source\repos\operators_Assignment\bin\Debug\net8.0\operators_Assignment.deps.json
+C:\Users\DELL\source\repos\operators_Assignment\bin\Debug\net8.0\operators_Assignment.runtimeconfig.json
+C:\Users\DELL\source\repos\operators_Assignment\bin\Debug\net8.0\operators_Assignment.dll
+C:\Users\DELL\source\repos\operators_Assignment\bin\Debug\net8.0\operators_Assignment.pdb
+C:\Users\DELL\source\repos\operators_Assignment\obj\Debug\net8.0\operators_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\operators_Assignment\obj\Debug\net8.0\operators_Assignment.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\operators_Assignment\obj\Debug\net8.0\operators_Assignment.AssemblyInfo.cs
+C:\Users\DELL\source\repos\operators_Assignment\obj\Debug\net8.0\operators_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\operators_Assignment\obj\Debug\net8.0\operators_Assignment.dll
+C:\Users\DELL\source\repos\operators_Assignment\obj\Debug\net8.0\refint\operators_Assignment.dll
+C:\Users\DELL\source\repos\operators_Assignment\obj\Debug\net8.0\operators_Assignment.pdb
+C:\Users\DELL\source\repos\operators_Assignment\obj\Debug\net8.0\operators_Assignment.genruntimeconfig.cache
+C:\Users\DELL\source\repos\operators_Assignment\obj\Debug\net8.0\ref\operators_Assignment.dll
